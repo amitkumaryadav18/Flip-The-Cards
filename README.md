@@ -14,6 +14,7 @@ The concept was to make use of Vanilla JS to inject data into html and understan
 2. Make a highscore system.
 3. Improve overall functionality.
 
-=============================
+=====================================
+
         Have Fun :)
 
