@@ -1,0 +1,28 @@
+{
+  "name": "flip-cards",
+  "version": "1.0.0",
+  "description": "A flip card game",
+  "main": "index.html",
+  "scripts": {
+    "minifyJS": "uglifyjs app.js --compress --mangle --warn --output app.min.js",
+    "compress:css" : "node-sass style.css build/style.min.css/ --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitkumaryadav18/Flip-The-Cards.git"
+  },
+  "keywords": [
+    "Flip",
+    "Card"
+  ],
+  "author": "Amit Kumar Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitkumaryadav18/Flip-The-Cards/issues"
+  },
+  "homepage": "https://github.com/amitkumaryadav18/Flip-The-Cards#readme",
+  "devDependencies": {
+    "node-minify": "^3.6.0",
+    "node-sass": "^4.12.0"
+  }
+}
