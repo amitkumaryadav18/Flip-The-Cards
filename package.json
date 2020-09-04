@@ -23,6 +23,6 @@
   "homepage": "https://github.com/amitkumaryadav18/Flip-The-Cards#readme",
   "devDependencies": {
     "node-minify": "^3.6.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
